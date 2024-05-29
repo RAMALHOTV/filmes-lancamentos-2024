@@ -1,7 +1,8 @@
 <item> 
  <title>[B][COLOR white]Planeta dos Macacos: O Reinado- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702$nome=[COLOR lime]Torrent CAM[/COLOR] - DUBLADO</link> 
- <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156288.mkv$nome=[COLOR lime]Links Diretos CAM[/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156288.mkv$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156182.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link> 
  <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>  
  <thumbnail>https://image.tmdb.org/t/p/w300/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Idioma: Dublado 1080p Formato: .Torrent</genre>
@@ -13,13 +14,15 @@
  <item> 
  <title>[B][COLOR white]Furiosa: Uma Saga Mad Max- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23708AC419F39BB1CBCFFF437CFFE4E94D2576B$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
- <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/157107.mp4$nome=[COLOR lime]Links Diretos[/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/157107.mp4$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/157043.mp4$nome=[COLOR lime]Links Diretos Opiçao 02[/COLOR] - DUBLADO</link>  
  <link>C:\Users\user\dwhelper\Trailer do filme Furiosa Uma Saga Mad Max - Furiosa Uma Saga Mad.mp4$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>  
  <thumbnail>https://image.tmdb.org/t/p/w500/j4KUED5qQCpmyz1Mr77coJCrndq.jpg</thumbnail>
  <genre>[B][COLOR firebrick] Ação | Aventura | Ficção</genre>
  <fanart>https://image.tmdb.org/t/p/w500/j4KUED5qQCpmyz1Mr77coJCrndq.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Uma Saga Mad Max é um filme de ficção científica pós apocalíptico dirigido por George Miller e estrelado por Anya Taylor-Joy, Chris Hemsworth e Tom Burke. A trama revela a história de origem da guerreira renegada Furiosa, anteriormente interpretada por Charlize Theron, narrando sua jornada até se unir a Max em Mad Max: Estrada da Fúria (2015). O enredo segue uma jovem Furiosa (Anya Taylor-Joy), sequestrada de seu lar, o Lugar Verde de Muitas Mães, por uma grande horda de motoqueiros liderada pelo senhor da guerra Dementus (Chris Hemsworth). Cruzando Wasteland, eles alcançam a Cidadela, dominada pelo Immortan Joe (Lachy Hulme). Enquanto os dois tiranos disputam o domínio, Furiosa se vê envolvida em uma batalha incessante para retornar ao seu lar. O filme oferece uma visão mais profunda do universo de Mad Max, explorando os motivos e desafios enfrentados por um dos personagens mais marcantes da franquia. [COLOR red][/COLOR][/B]</info>	
  </item> 
+
 
 
  <item> 
@@ -101,5 +104,68 @@
  <fanart>https://image.tmdb.org/t/p/w500/nZY9zf7z0Gy3bFOpwf0qOgJKaX7.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Uma festeira tenaz luta para sobreviver após três ladrões tomarem seu iate de luxo. Incapaz de escapar e presa no iate em alto mar, a presa se torna a caçadora enquanto vira a mesa contra os intrusos e resolve o assunto com as próprias mãos. [COLOR red][/COLOR][/B]</info>	
  </item> 
+
+<item> 
+ <title>[B][COLOR white]Colateral- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbcaeaf7a48af25a9e13dadef2a2af77983e060$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156153.mp4$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156153.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Após o trágico incidente que tira a vida do informante, Hatch se compromete a proteger Jayden e seu tio de gangues impiedosas em uma guerra territorial brutal. Com o passar dos anos, esse compromisso é posto à prova quando essas gangues começam uma violenta disputa pelo controle das ruas. No centro desse caos, ele luta não apenas contra os criminosos, mas também contra aliados com intenções ocultas e nefastas. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Code 8 - Renegados- [COLOR red]Lançamento[COLOR red](2021/2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5dd2171aec836853d8cec75ef724b906b171bc$nome=[COLOR lime]Code 8 - Renegados (2019)Torrent 1080P [/COLOR] - DUBLADO</link> 
+<link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/1242.mp4$nome=[COLOR lime]Code 8: Renegados -(2019)Links Diretos [/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151400.mp4$nome=[COLOR lime]Code 8: Renegados - Parte 2 (2024)Links Diretos [/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://br.web.img3.acsta.net/c_310_420/pictures/19/11/01/21/04/2150442.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://br.web.img3.acsta.net/c_310_420/pictures/19/11/01/21/04/2150442.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Code 8 - Renegados apresenta um mundo onde pessoas com habilidades "especiais" vivem na pobreza. Conner Reed (Robbie Amell) é um jovem poderoso que está lutando para pagar pelo tratamento médico de sua mãe doente. Para ganhar dinheiro, ele se junta a um mundo criminoso e lucrativo, liderado por Garrett (Stephen Amell), que trabalha para um traficante de drogas. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Lua de Mel Inusitada- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6613b5892841e9524c97ab16b5517014267e55e9$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155551.mp4$nome=[COLOR lime]Links Diretos Opiçao 01/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/155551.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://br.web.img3.acsta.net/c_310_420/img/61/0c/610ce3c656a7174735113bed77502586.PNG</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://br.web.img3.acsta.net/c_310_420/img/61/0c/610ce3c656a7174735113bed77502586.PNG</fanart>
+ <info>[B][COLOR red] SINOPSE:Lua de Mel Inusitada é uma comédia romântica que conta a história de Noor (Nour Al Ghandour) e Hamad (Mahmoud Boushahri), um casal que durante sua lua de mel descobre que na verdade, compartilha mais diferenças do que semelhanças. Agora, eles irão descobrir se esses opostos conseguem manter uma atração e o relacionamento vivo. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
+ <title>[B][COLOR white]Wanted Man: Marcado Para Morrer- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475eec6fea646b6ad23851239af13d3bd451c271$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156177.mp4$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156177.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link>
+ <link>https://youtu.be/6yV9mvLjqxE$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://filmezandohd.com/wp-content/uploads/2024/05/6zgG1eNiQ4DrbYDIgEwNmDYRdrg-200x300.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://filmezandohd.com/wp-content/uploads/2024/05/6zgG1eNiQ4DrbYDIgEwNmDYRdrg-200x300.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Um policial precisa resgatar uma testemunha e escoltá-la depois que um tiroteio deixa vários agentes da DEA mortos, mas precisa decidir em quem confiar quando descobre que o ataque foi executado pelas forças dos EUA.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
+ <title>[B][COLOR white]O Entregador- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:598d4f26fa201a24b2befa8f9f767832c4e11d95$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156236.mp4$nome=[COLOR lime]Links Diretos Opiçao 01- DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156236.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://filmezandohd.com/wp-content/uploads/2024/05/d5Z8cj0dyKzT7PrVvneknsm0X41-200x300.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://filmezandohd.com/wp-content/uploads/2024/05/d5Z8cj0dyKzT7PrVvneknsm0X41-200x300.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:ste entregador não vacilou diante da chance de participar de um esquema de lavagem de dinheiro, e agora vai conhecer o mundo do dinheiro fácil (e das quedas rápidas). [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
 
 
