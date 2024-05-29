@@ -2,7 +2,7 @@
  <title>[B][COLOR white]Planeta dos Macacos: O Reinado- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702$nome=[COLOR lime]Torrent CAM[/COLOR] - DUBLADO</link> 
  <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156288.mkv$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link> 
- <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156182.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156182.mp4$nome=[COLOR lime]Links Diretos Opiçao 02[/COLOR]- DUBLADO</link> 
  <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>  
  <thumbnail>https://image.tmdb.org/t/p/w300/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Idioma: Dublado 1080p Formato: .Torrent</genre>
@@ -109,7 +109,7 @@
  <title>[B][COLOR white]Colateral- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbcaeaf7a48af25a9e13dadef2a2af77983e060$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
  <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156153.mp4$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link>
- <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156153.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156153.mp4$nome=[COLOR lime]Links Diretos Opiçao 02[/COLOR]- DUBLADO</link>
  <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Drama</genre>
@@ -146,7 +146,7 @@
  <title>[B][COLOR white]Wanted Man: Marcado Para Morrer- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475eec6fea646b6ad23851239af13d3bd451c271$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
  <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156177.mp4$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link>
- <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156177.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156177.mp4$nome=[COLOR lime]Links Diretos Opiçao 02[/COLOR] - DUBLADO</link>
  <link>https://youtu.be/6yV9mvLjqxE$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
  <thumbnail>https://filmezandohd.com/wp-content/uploads/2024/05/6zgG1eNiQ4DrbYDIgEwNmDYRdrg-200x300.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Drama</genre>
@@ -159,7 +159,7 @@
  <title>[B][COLOR white]O Entregador- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:598d4f26fa201a24b2befa8f9f767832c4e11d95$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
  <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156236.mp4$nome=[COLOR lime]Links Diretos Opiçao 01- DUBLADO</link>
- <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156236.mp4$nome=[COLOR lime]Links Diretos Opiçao 02/COLOR] - DUBLADO</link>
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/cprimemain2-Nbj8dPukMt/6FvUovih0S/156236.mp4$nome=[COLOR lime]Links Diretos Opiçao 02[/COLOR] - DUBLADO</link>
  <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
  <thumbnail>https://filmezandohd.com/wp-content/uploads/2024/05/d5Z8cj0dyKzT7PrVvneknsm0X41-200x300.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação / Drama</genre>
