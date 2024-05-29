@@ -57,3 +57,49 @@
  <info>[B][COLOR red] SINOPSE: Depois de ser assassinado por ter um caso com a rainha, um viajante encontra um pássaro místico com o poder de lhe conceder uma segunda chance.[COLOR red][/COLOR][/B]</info>	
  </item> 
 
+  <item> 
+ <title>[B][COLOR white]The Dry 2: Força da Natureza- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdacace5b92ba735f020119d5747789f71b86372$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/157088.mp4$nome=[COLOR lime]Links Diretos 720 P[/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://image.tmdb.org/t/p/w500/bLVYPjYkE5kEvPzwSUVRv3Bgums.jpg</thumbnail>
+ <genre>[B][COLOR firebrick] Crime | Mistério | Suspense</genre>
+ <fanart>https://image.tmdb.org/t/p/w500/bLVYPjYkE5kEvPzwSUVRv3Bgums.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quando cinco mulheres embarcam em uma trilha corporativa e apenas quatro retornam, cada uma com versões diferentes dos acontecimentos, dois agentes federais enfrentam as profundezas das montanhas na esperança de encontra-la com vida. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
+ <title>[B][COLOR white]Pânico na Montanha- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bc4745a37cea999f3c2aaf92ad1a9f9fb7dabbf$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156641.mp4$nome=[COLOR lime]Links Diretos 720 P[/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://image.tmdb.org/t/p/w500/zsATKx7B970yqPNri093CE7DUBW.jpg</thumbnail>
+ <genre>[B][COLOR firebrick] Terror</genre>
+ <fanart>https://image.tmdb.org/t/p/w500/zsATKx7B970yqPNri093CE7DUBW.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: A escritora Blake Sinclair se encontra em uma luta por sua vida contra um maníaco sanguinário que tem deixado várias vítimas em seu rastro enquanto retorna à cidade montanhosa de Northdale.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Golden Kamuy- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405499a3113697b7cfd82dd49b3dcb603bdaff8$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156644.mp4$nome=[COLOR lime]Links Diretos 720 P[/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://image.tmdb.org/t/p/w500/kbW1DV9gPNeXvhwqvJtcRVSPk5C.jpg</thumbnail>
+ <genre>[B][COLOR firebrick] Ação | Aventura | História</genre>
+ <fanart>https://image.tmdb.org/t/p/w500/kbW1DV9gPNeXvhwqvJtcRVSPk5C.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:No início do século XX, o veterano da Guerra Russo-Japonesa Saichi “Immortal” Sugimoto consegue uma existência miserável durante a corrida do ouro do pós-guerra no deserto de Hokkaido. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Ameaça a Bordo- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ae276a9a0d45437a317c0c62354b26e9a21ada$nome=[COLOR lime]Torrent 1080P [/COLOR] - DUBLADO</link> 
+ <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/93704.mp4$nome=[COLOR lime]Links Diretos 720 P[/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]TRAILER[/COLOR] - DUBLADO</link>   
+ <thumbnail>https://image.tmdb.org/t/p/w500/nZY9zf7z0Gy3bFOpwf0qOgJKaX7.jpg</thumbnail>
+ <genre>[B][COLOR firebrick] Ação, Suspense</genre>
+ <fanart>https://image.tmdb.org/t/p/w500/nZY9zf7z0Gy3bFOpwf0qOgJKaX7.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma festeira tenaz luta para sobreviver após três ladrões tomarem seu iate de luxo. Incapaz de escapar e presa no iate em alto mar, a presa se torna a caçadora enquanto vira a mesa contra os intrusos e resolve o assunto com as próprias mãos. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
