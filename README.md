@@ -1,4 +1,17 @@
 <item> 
+ <title>[B][COLOR white]Os Farofeiros 2- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:befc88ff0585382474dd725fa315fc17ef39dba4$nome=[COLOR lime]Torrent MKV[/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]Links Diretos[/COLOR] - DUBLADO</link>
+ <link>$nome=[COLOR lime]Links Diretos[/COLOR] - DUBLADO</link>
+ <thumbnail>https://image.tmdb.org/t/p/w500/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Drama</genre>
+ <fanart>https://image.tmdb.org/t/p/w500/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em Os Farofeiros 2, acompanhamos um novo capítulo da história dos amigos Alexandre (Antônio Fragoso), Lima (Maurício Manfrini), Rocha (Charles Paraventi) e Diguinho (Nilton Bicudo). Quando Alexandre é reconhecido como o melhor gerente de vendas na empresa em que trabalha, ele ganha como recompensa por seus esforços uma viagem para a Bahia com toda a família. Porém, os outros três amigos não estão muito felizes com a forma como Alexandre comanda as coisas. Para tentar amolecer o coração dos amigos e garantir sua tão esperada promoção, ele resolve levar todos – acompanhados das esposas e dos filhos – para a viagem ao Nordeste. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+
+<item> 
  <title>[B][COLOR white]Planeta dos Macacos: O Reinado- [COLOR red]Lançamento[COLOR red](2024) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702$nome=[COLOR lime]Torrent CAM[/COLOR] - DUBLADO</link> 
  <link>http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156288.mkv$nome=[COLOR lime]Links Diretos Opiçao 01[/COLOR] - DUBLADO</link> 
